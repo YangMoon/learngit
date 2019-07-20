@@ -1,0 +1,9 @@
+abcdefighijxlmnopqrstuvwxyz
+step
+1.mkdir learngit
+2.cd learngit
+3.编辑a.txt
+4.git add a.txt
+5.git commit -m 'create file a.txt'
+6.git push
+
