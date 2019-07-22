@@ -7,8 +7,8 @@ step
 5.git commit -m 'create file a.txt'
 6.git push
 $ git checkout -b dev
-Switch to a new branch 'dev'
-$ git checkout -b dev
+
+
 Switch to a new branch 'dev'
 $ git checkout -b dev
 Switch to a new branch 'dev'
@@ -21,5 +21,9 @@ Switch to a new branch 'dev'
 $ git checkout -b dev
 Switch to a new branch 'dev'
 Creating a new branch is quick
+<<<<<<< HEAD
 Creating a new branch a quick & simple
-
+=======
+Creating a new branch is quick AND simple
+>>>>>>> feature1
+git checkout -b dev
