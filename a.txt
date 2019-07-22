@@ -20,4 +20,5 @@ $ git checkout -b dev
 Switch to a new branch 'dev'
 $ git checkout -b dev
 Switch to a new branch 'dev'
+Creating a new branch is quick
 
